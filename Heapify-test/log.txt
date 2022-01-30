@@ -1,0 +1,1 @@
+Time to load up linked-list|	Milliseconds: 3217	Seconds: 3.217322
